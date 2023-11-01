@@ -15,7 +15,7 @@ import jakarta.ws.rs.QueryParam;
 import jakarta.ws.rs.core.Response;
 import py.edu.ucom.julio.config.Globales;
 import py.edu.ucom.julio.entities.Producto;
-import py.edu.ucom.julio.services.ProductoService;
+import py.edu.ucom.julio.service.ProductoService;
 
 @Path("/producto")
 public class ProductoResource {

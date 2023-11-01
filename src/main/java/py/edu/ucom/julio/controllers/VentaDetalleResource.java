@@ -13,8 +13,7 @@ import jakarta.ws.rs.PathParam;
 import jakarta.ws.rs.QueryParam;
 import jakarta.ws.rs.core.Response;
 import py.edu.ucom.julio.entities.VentaDetalle;
-
-import py.edu.ucom.julio.services.VentaDetalleService;
+import py.edu.ucom.julio.service.VentaDetalleService;
 
 @Path("/VentaDetalle")
 public class VentaDetalleResource {

@@ -17,7 +17,7 @@ import py.edu.ucom.julio.config.Globales;
 import py.edu.ucom.julio.entities.Venta;
 import py.edu.ucom.julio.entities.VentaDetalle;
 import py.edu.ucom.julio.entities.dto.ResumenVentaDTO;
-import py.edu.ucom.julio.services.VentaService;
+import py.edu.ucom.julio.service.VentaService;
 
 @Path("/Venta")
 public class VentaResource {

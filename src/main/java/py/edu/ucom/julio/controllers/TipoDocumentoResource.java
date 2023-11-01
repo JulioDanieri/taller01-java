@@ -12,7 +12,7 @@ import jakarta.ws.rs.PUT;
 import jakarta.ws.rs.Path;
 import jakarta.ws.rs.PathParam;
 import py.edu.ucom.julio.entities.TipoDocumento;
-import py.edu.ucom.julio.services.TipoDocumentoService;
+import py.edu.ucom.julio.service.TipoDocumentoService;
 
 @Path("/TipoDocumento")
 public class TipoDocumentoResource {

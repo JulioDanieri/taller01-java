@@ -17,7 +17,7 @@ import py.edu.ucom.julio.config.Globales;
 import py.edu.ucom.julio.entities.MetodoPago;
 import py.edu.ucom.julio.entities.params.ObtenerDatosError;
 import py.edu.ucom.julio.entities.params.RespuestaLista;
-import py.edu.ucom.julio.services.MetodoPagoService;
+import py.edu.ucom.julio.service.MetodoPagoService;
 
 @Path("/metodo-pago")
 public class MetodoPagoResource {

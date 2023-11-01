@@ -1,4 +1,4 @@
-package py.edu.ucom.julio.services;
+package py.edu.ucom.julio.service;
 
 
 import java.util.List;

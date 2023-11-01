@@ -15,7 +15,7 @@ import jakarta.ws.rs.QueryParam;
 import jakarta.ws.rs.core.Response;
 import py.edu.ucom.julio.config.Globales;
 import py.edu.ucom.julio.entities.Cliente;
-import py.edu.ucom.julio.services.ClienteService;
+import py.edu.ucom.julio.service.ClienteService;
 
 @Path("/Cliente")
 public class ClienteResource {
